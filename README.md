@@ -2,7 +2,7 @@
 
 A sleek, responsive, and feature-rich To-Do list application built with vanilla **HTML5**, **CSS3**, and **JavaScript**. Designed with a modern UI and persistent local storage so your tasks are always saved.
 
-![App Preview](https://via.placeholder.com/800x400.png?text=To-Do+App+Screenshot) *(Optional: Replace with a screenshot of your app)*
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/25897ec9-7841-4e22-af25-ce2fe57b1ec5" />
 
 ---
 
